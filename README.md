@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @domas-v
-- 👀 I’m interested in Artificial Intelligence, Machine Learning and Cloud Infrastructure
-- 🌱 I’m currently studying for GCP Cert.
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, Physics and Astronomy
 - 📫 How to reach me domas.vaitmonas93@gmail.com
 
 <!---
